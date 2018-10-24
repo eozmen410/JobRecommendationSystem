@@ -1,3 +1,7 @@
+/*
+Red Black Binary Search Tree, adapted from the book:
+Algorithms 4th Edition by Robert Sedgewick and Kevin Wayne
+ */
 import java.util.ArrayList;
 import java.util.List;
 import java.util.NoSuchElementException;
